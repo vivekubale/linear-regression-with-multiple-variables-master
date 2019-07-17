@@ -1,1 +1,1 @@
-# linear-regression-with-multiple-variables-master
+# linear-regression-with-multiple-variables
